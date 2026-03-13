@@ -32,23 +32,27 @@ h2 {
   padding: 0.5em;
 }
 #guides {
-  background-color: #2f6d5e;
-  text-align: center;
   color: white;
   height: 12em;
   position: relative;
+  margin-bottom: 2em;
 }
 h1 {
   font-size: 2em;
   position: absolute;
-  left: 38rem;
-  top: 4rem;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  margin: 0;
 }
 #be-go {
   margin: 1em 0;
   position: absolute;
-  left: 43rem;
-  top: 6rem;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
 }
 #find {
   background-color: white;
@@ -65,10 +69,10 @@ h3 {
   margin-left: 1em;
 }
 .foto {
-  height: 340px;
-  width: 350px;
+  width: 22%;
+  height: 380px;
   border-radius: 1em;
-  margin: auto 1em;
+  margin: 0 1%;
 }
 #foto {
   text-align: center;
